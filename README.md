@@ -1,5 +1,7 @@
 # Mining Archaeological Reports
 
+<a href="https://zenodo.org/badge/latestdoi/146339411"><img src="https://zenodo.org/badge/146339411.svg" alt="DOI"></a>
+
 This repository consists of data and analyses as published in:
 
 NAR 68 Urban farming and ruralisation in the Netherlands (1250 up tot the nineteenth century), unravelling farming practice and the use of (open) space by synthesising archaeological reports using text mining.
