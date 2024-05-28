@@ -1,4 +1,4 @@
-# Mining Archaeological Reports
+# Text Mining of Archaeological Reports for Urban farming (data and code)
 
 <a href="https://zenodo.org/badge/latestdoi/146339411"><img src="https://zenodo.org/badge/146339411.svg" alt="DOI"></a>
 
