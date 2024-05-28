@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset and software, please cite it as below."
+authors:
+  - family-names: Visser
+    given-names: Ronald
+    orcid: "https://orcid.org/0000-0001-6966-1729"
+title: "Mining Archaeological Reports"
+doi: "https://doi.org/10.5281/zenodo.7157759"
+date-released: 2022-10-7
+url: "https://github.com/RonaldVisser/Spatio_temporal_aspects_of_data"
