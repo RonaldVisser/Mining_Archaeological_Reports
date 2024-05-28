@@ -4,7 +4,7 @@ authors:
   - family-names: Visser
     given-names: Ronald
     orcid: "https://orcid.org/0000-0001-6966-1729"
-title: "Mining Archaeological Reports"
+title: "Text Mining of Archaeological Reports for Urban farming (data and code)"
 doi: "https://doi.org/10.5281/zenodo.7157759"
 date-released: 2022-10-7
 url: "https://github.com/RonaldVisser/Spatio_temporal_aspects_of_data"
